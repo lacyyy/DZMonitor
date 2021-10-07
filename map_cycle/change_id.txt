@@ -1,0 +1,4 @@
+1
+
+- NOT CONFIGURABLE -
+This is used to check if there's an updated map cycle on GitHub.
