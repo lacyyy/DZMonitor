@@ -1,0 +1,65 @@
+{
+        "map": {
+                "mode": "survival",
+                "name": "dz_blacksite",
+                "phase": "gameover",
+                "round": 1,
+                "team_ct": {
+                        "score": 0,
+                        "consecutive_round_losses": 1,
+                        "timeouts_remaining": 1,
+                        "matches_won_this_series": 0
+                },
+                "team_t": {
+                        "score": 0,
+                        "name": "XANTARESPEEK",
+                        "consecutive_round_losses": 0,
+                        "timeouts_remaining": 1,
+                        "matches_won_this_series": 0
+                },
+                "num_matches_to_win_series": 0,
+                "current_spectators": 0,
+                "souvenirs_total": 0
+        },
+        "player": {
+                "steamid": "12345678901234567",
+                "clan": "xantarespeek",
+                "name": "xxx_epic_name_xxx",
+                "observer_slot": 1,
+                "team": "T",
+                "activity": "playing",
+                "match_stats": {
+                        "kills": -1,
+                        "assists": 0,
+                        "deaths": 1,
+                        "mvps": 1,
+                        "score": 45
+                },
+                "state": {
+                        "health": 0,
+                        "armor": 0,
+                        "helmet": false,
+                        "flashed": 0,
+                        "smoked": 0,
+                        "burning": 0,
+                        "money": 450,
+                        "round_kills": 0,
+                        "round_killhs": 0,
+                        "equip_value": 300
+                }
+        },
+        "provider": {
+                "name": "Counter-Strike: Global Offensive",
+                "appid": 730,
+                "version": 13797,
+                "steamid": "12345678901234567",
+                "timestamp": 1628019700
+        },
+        "round": {
+                "phase": "freezetime",
+                "win_team": "T"
+        },
+        "auth": {
+                "token": "602HJ031ONM12FT1K007WQYO1W2W1JBB"
+        }
+}

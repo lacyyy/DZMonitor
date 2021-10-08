@@ -1,0 +1,16 @@
+Amazon Polly
+Engine: Standard (not neural)
+Language: English, US
+Voice: Kendra, Female
+
+SSML input:
+
+<speak>
+<amazon:effect vocal-tract-length="+6%">
+<prosody volume="loud"  rate="130%">
+Sirocco in 3 minutes.
+This is your final redeployment. Good luck.
+Your redeployments have stopped, if missile countdown is visible. otherwise they stop in 40 seconds.
+</prosody>
+</amazon:effect>
+</speak>

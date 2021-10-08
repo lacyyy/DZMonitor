@@ -42,7 +42,7 @@ Currently I can only provide a download for Windows 64bit. MacOS and Linux users
    - pygame (v2.0.1 was used)
    - opencv-python (v4.5.3.56 was used)
    - numpy (v1.21.1 was used)
-   - Pillow (v7.1.2 was used)
+   - Pillow (v8.3.2 was used)
    - colorama (v0.4.4 was used)
    - pyinstaller (v4.5 was used)
 3. Run this inside the repository: `pyinstaller --onefile --icon icon.ico --name DZMonitor_vXX .\Main.py`

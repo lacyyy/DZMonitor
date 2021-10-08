@@ -1,0 +1,2 @@
+VERSION = "1.0"
+VISUALS_FPS = 1.0

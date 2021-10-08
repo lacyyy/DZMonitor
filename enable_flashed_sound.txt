@@ -1,0 +1,7 @@
+1
+
+- CONFIGURABLE VALUE - 
+Description:    Enable/Disable a sound that gets played when the player gets flashed.
+Allowed values: 0 or 1, (0=Disable,1=Enable)
+Caution:        Make sure the value is in the FIRST LINE in this file.
+                After changing a value, restart DZMonitor.

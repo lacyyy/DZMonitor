@@ -1,0 +1,7 @@
+56,3
+
+- CONFIGURABLE VALUE - 
+Description:    X and Y position of the redeployment cutoff logo. (horizontal and vertical position/offset)
+Allowed values: any positive or negative integer, seperated by commas, e.g. 19,-8
+Caution:        Make sure the value is in the FIRST LINE in this file.
+                After changing a value, restart DZMonitor.

@@ -1,0 +1,66 @@
+score 0 , money 500 start!!!
+
+at the end of every countdown: +750$ / +1000$, no score increase
+100$ squad wipe reward, no score increase
+
+1 score point for every 50$ collected
+1 score point for every kill (possibly more the less players alive?)
+bot kills give no points!
+
+when killed and respawn available, 300$ get subtracted immediately,
+no score affection
+
+
+purchasing gives no score!
+
+breaking a crate: +1 score
+
+receiving/collecting cash: SOMETIMES delayed score increments!
+--
+score:5
+money:700
+--
+score:5
+money:800
+--
+score:7
+money:800
+--
+
+wiping a player squad (100$ reward, 1 point for 1 kill):
+--
+score:7
+money:800
+--
+score:7
+money:900
+--
+score:8
+money:900
+--
+
+TEST SCENARIOS:
+	SCENARIO 1 (FALSE):
+		-- score:  0 money:    0
+		-- score: 20 money: 1000 # picks up 1000
+	SCENARIO 2 (FALSE):
+		-- score:  0 money:    0
+		-- score:  0 money: 1000 # picks up 1000
+		-- score: 20 money: 1000
+	SCENARIO 3 (TRUE):
+		-- score:  0 money:    0
+		-- score:  0 money: 1000 # 1000 wave bonus
+		-- score:  6 money: 1300 # picks up 300
+	SCENARIO 4 (FALSE):
+		-- score:  0 money:    0
+		-- score:  0 money: 1100 # picks up 1000, 1 kill squad wipe
+		-- score: 21 money: 1100
+	SCENARIO 5:
+		-- score:  0 money:    0
+		-- score:  0 money:  750 # 750 wave bonus
+		-- score: 15 money:  750 # 14 crates/kills with c4
+	SCENARIO 6 (TRUE):
+		-- score:  0 money:    0
+		-- score:  0 money:  750 # picks up 750
+		-- score: 15 money: 1500 # 750 wave bonus
+		-- score: 15 money: 1600 # 100 explore bonus
