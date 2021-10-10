@@ -1,15 +1,23 @@
 # DZMonitor 1.0
 
-## About
-A program that displays and/or announces useful information while playing CS:GO Danger Zone, such as:
-- Personal redeployment cutoff / last chance to respawn (display and/or announcer)
-- Danger Zone map rotation (display and/or announcer)
+A program that can display and announce useful information while playing CS:GO Danger Zone, such as:
+- Danger Zone map rotation (display and/or audible announcer)
 
 ![Map Cycle Display](/unused/example_map_cycle.jpg)
+- Personal redeployment cutoff / last chance to respawn (display and/or audible announcer)
 
-Additional functionalities that are less useful:
+![Personal Redeployment Cutoff Window](/unused/example_personal_redeployment_cutoff.jpg)
+
 - Suicide Counter (display)
+
+![Suicide Counter Window](/unused/example_suicide_counter.jpg)
 - Flash sound player (plays sound whenever player gets flashed)
+
+The windows with blue backgrounds can be used as transparent overlays in OBS:
+
+![Transparent OBS Overlays](/unused/example_transparent_obs_overlays.jpg)
+
+For optimal OBS filter settings, look into `personal_redeployment_cutoff/optimal_obs_filter_setting.jpg` and `suicide_counter/optimal_obs_filter_setting.jpg`.
 
 ## Is this a cheat? Will I get VAC-banned for using this?
 No, this isn't a cheat and you won't get VAC-banned for using this. DZMonitor doesn't screw with the CS:GO program. Instead, it retrieves known game information like player health, kills, deaths, money, weapons, etc. through [Game State Integration](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration) which is legit and provided by Valve itself.
