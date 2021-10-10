@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # keep the executables out of the repo
-.exe
+*.exe
 
 # C extensions
 *.so
