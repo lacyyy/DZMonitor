@@ -1,7 +1,7 @@
 127,40, 195,40, 227,40
 
 - CONFIGURABLE VALUE - 
-Description:    X and Y positions of the suicide counter text. (horizontal and vertical position/offset)
+Description:    X and Y positions of the redeployment cutoff window text. (horizontal and vertical position/offset)
                 First 2 values are XY position of first "X:XX" part.
                 Next 2 values are XY position of middle "or" part.
 		Last 2 values are XY position of end "X:XX" part.

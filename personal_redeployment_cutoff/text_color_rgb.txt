@@ -1,7 +1,7 @@
 255,255,255
 
 - CONFIGURABLE VALUE - 
-Description:    Color of the map cycle text in 8-bit RGB.
+Description:    Color of the redeployment cutoff window text in 8-bit RGB.
 Allowed values: 0 to 255, seperated by commas
 Caution:        Make sure the value is in the FIRST LINE in this file.
                 After changing a value, restart DZMonitor.
