@@ -27,7 +27,8 @@ It should be noted what the [CS:GO Fair Play Guidelines](https://blog.counter-st
 
 > Never use any automation for any reason.
 
-DZMonitor merely displays/announces information the player could have deduced himself, it doesn't input anything into the game controls, like a cheat would. It could still be argued processing known game information and informing the player on his last chance to respawn is automation. You decide if DZMonitor violates the guidelines.
+DZMonitor merely displays/announces information the player could have deduced himself, it doesn't input anything into the game controls, like a cheat would. It could still be argued processing known game information and informing the player on his last chance to respawn is automation. You decide if DZMonitor violates the guidelines!
+***Use at your own risk!***
 
 Another obvious reason not to use DZMonitor: **You shouldn't download programs from strangers on the internet, possibly containing malware.** It would be best if someone you trust recommends DZMonitor. If you've got IT skills, you can check the source code for malicious content and compile it for yourself, completely making sure. That's why I published the source code along with the precompiled windows EXE.
 
