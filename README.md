@@ -46,8 +46,9 @@ Another obvious reason not to use DZMonitor: **You shouldn't download programs f
 Currently I can only provide a download for Windows 64bit. MacOS and Linux users are required to run or compile the source code for themselves. Look at the sections below for instructions. Some IT and Python package installation skills are required!
 
 ## Donate
-This took quite some effort and I'm glad a bunch of people showed interest in this tool! Since I decided to share it for free, donations are appreciated! If you've got any good ideas for more features, let me know :)
-TODO donation link
+This took quite some effort and I'm glad a bunch of people showed interest in this tool! Since I decided to share it for free, donations are appreciated! If you've got any good ideas for more features, let me know 😃
+
+[Donate here](https://github.com/sponsors/lacyyy) ❤️
 
 ## Configuration
 You can individually enable/disable the following features:
