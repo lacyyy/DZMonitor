@@ -34,7 +34,7 @@ DZMonitor merely displays/announces information the player could have deduced hi
 Another obvious reason not to use DZMonitor: **You shouldn't download programs from strangers on the internet, possibly containing malware.** It would be best if someone you trust recommends DZMonitor. If you've got IT skills, you can check the source code for malicious content and compile it for yourself, completely making sure. That's why I published the source code along with the precompiled windows EXE.
 
 # Download and Installation
-1. Download DZMonitor for Windows 64bit TODO link
+1. [Download DZMonitor for Windows 64bit](https://github.com/lacyyy/DZMonitor/releases/latest)
 2. Extract the downloaded ZIP file
 3. If CS:GO is open, close it. Then copy the `gamestate_integration_DZMonitor.cfg` file into the `cfg` folder of your CS:GO installation, e.g., `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\`.
 4. Now you can start DZMonitor by opening the `DZMonitor_vX.X.exe` file. Enjoy!
