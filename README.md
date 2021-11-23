@@ -1,4 +1,5 @@
-# DZMonitor 1.0
+# DZMonitor 1.1
+*Updated map cycle to 3 minutes per map!*
 
 A program that can display and announce useful information while playing CS:GO Danger Zone, such as:
 - Danger Zone map rotation (display and/or audible announcer)
