@@ -1,0 +1,11 @@
+300,120,0
+
+- CONFIGURABLE VALUE - 
+Description:    How many seconds before this map becomes active the map announcer plays.
+                Value of 0 results in "[Map] active!" message.
+                Values greater than 0 result in "[Map] in [X] minutes and [Y] seconds" message.
+                For example, a value of 73 results in a message ca. 70 seconds before this
+                map becomes active.
+Allowed values: Positive integers, seperated by commas
+Caution:        Make sure the value is in the FIRST LINE in this file.
+                After changing a value, restart DZMonitor.

@@ -10,7 +10,7 @@ def isNewMapCycleAvailable(local_map_cycle_change_id_file_path):
         return False
     
     
-    TARGET_URL = 'https://raw.githubusercontent.com/lacyyy/DZMonitor/74209c43023033ff19bfb2b1c02ad9410f640eb6/map_cycle/change_id.txt'
+    TARGET_URL = 'https://raw.githubusercontent.com/lacyyy/DZMonitor/main/map_cycle/change_id.txt'
     first_line = None
     try:
         for line in urllib.request.urlopen(TARGET_URL):
