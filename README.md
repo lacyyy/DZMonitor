@@ -32,7 +32,7 @@ DZMonitor merely displays/announces information the player could have deduced hi
 
 ***Use at your own risk!***
 
-Another obvious reason not to use DZMonitor: **You shouldn't download programs from strangers on the internet, possibly containing malware.** It would be best if someone you trust recommends DZMonitor. If you've got IT skills, you can check the source code for malicious content and compile it for yourself, completely making sure. That's why I published the source code along with the precompiled windows EXE.
+Another obvious reason not to use DZMonitor: **You shouldn't download programs from strangers on the internet, possibly containing malware.** It would be best if someone you trust recommends DZMonitor. If you're able to, you can check the source code for malicious content and compile it for yourself, completely making sure. That's why I published the source code along with the precompiled windows EXE.
 
 # Download and Installation
 1. [Download DZMonitor for Windows 64bit](https://github.com/lacyyy/DZMonitor/releases/latest)
@@ -45,11 +45,6 @@ Another obvious reason not to use DZMonitor: **You shouldn't download programs f
 *Note: Selecting text inside the console causes program parts to halt. To deselect console text, press ESC.*
 
 Currently I can only provide a download for Windows 64bit. MacOS and Linux users are required to run or compile the source code for themselves. Look at the sections below for instructions. Some IT and Python package installation skills are required!
-
-## Donate
-This took quite some effort and I'm glad a bunch of people showed interest in this tool! Since I decided to share it for free, donations are appreciated! If you've got any good ideas for more features, let me know 😃
-
-[Donate here](https://github.com/sponsors/lacyyy) ❤️
 
 ## Configuration
 You can individually enable/disable the following features:
